@@ -61,7 +61,7 @@ const Post6 = () => {
 
 			<div className="text-box_display">
 				{iconLeaf}
-				<h3>AI Cover Letter Generator - Moroccan Parties Finder</h3>
+				<h3>AI Cover Letter Generator</h3>
 			</div>
 
 			<p>
